@@ -1,0 +1,99 @@
+*{
+    /* background-color: black; */
+   
+    margin: auto;
+    padding: auto; 
+    font-family: 'Noto Sans KR', sans-serif;
+}
+.ig,.lor{
+float: left;
+
+}
+
+
+.pg{
+   
+    width: 33%;
+    height: 40vh;
+    margin-top: 250px;
+    float: left;
+    margin-left: 30px;
+  
+}
+.lor{
+    
+     width: 240px; 
+     margin-top: 70px;
+   
+}
+.fast{
+    
+    width:33%;
+    margin: auto;
+    margin-left: 25px; 
+    height: 40vh;
+     margin-bottom:240px; 
+}
+.thrd{
+
+    width:33.5%;
+    float:right;
+    
+  
+    margin-right: 32px;
+    height: 40vh;
+    
+
+}
+.us,.gmail{
+    display: inline-block;
+}
+ .nirob,.pg,.fast,.thrd{
+     
+     
+     
+     display: inline-block;
+     margin: auto;
+    
+
+ }
+ .hasib,.nirob{
+     
+     
+     
+   
+  
+
+ }
+ .nirob{
+     border-radius: 6px;
+     margin-top: 180px;
+     margin-left: 20px;
+     margin-right: 20px;
+    background-color:  rgba(10, 198, 212, 0.205) ;
+     
+
+ }
+ .lor{
+     color: rgb(102, 101, 96);
+ }
+ .log,.pog{
+     color: rgb(102, 101, 96);
+ }
+.dig{
+    color: rgb(102, 101, 96);
+}
+.phone{
+    color: rgb(102, 101, 96);
+}
+.us{
+    color: rgb(102, 101, 96);
+}
+.icons{
+    color: rgb(102, 101, 96);
+}
+
+ 
+ 
+
+
